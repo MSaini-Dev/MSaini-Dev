@@ -85,7 +85,7 @@ AI Developer and Full-Stack Engineer focused on building autonomous AI systems â
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MSaini-Dev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&hide_title=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MSaini-Dev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&hide_title=true&hide_label=true" width="100%"/>
 
 <br/>
 
