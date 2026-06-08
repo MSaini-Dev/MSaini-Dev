@@ -127,33 +127,24 @@ class MSainiDev:
 
 <br/>
 
-<div align="center">
-
 ## ✦ &nbsp; The Intelligence Stack
 
-<br/>
+<div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   🔤  LLM  ──▶  🔍  RAG  ──▶  🤖  Agent  ──▶  🔌  MCP Server       │
-│                                    │                                 │
-│                              🔗  n8n Workflow  ──▶  📦  Docker      │
-│                                                                      │
-│   🧠  Deep Learning (PyTorch)  ──▶  📊  ML Pipelines (PySpark)      │
-│                                                                      │
-│   ⚛️   React / Next.js  ──▶  🗄️  Supabase / MongoDB / SQL           │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
+| | Layer | Stack |
+|:---:|:---|:---|
+| 🔮 | **AI core** | `LLM` → `RAG` → `Agent` → `MCP Server` |
+| 🧠 | **ML** | `Deep Learning (PyTorch)` → `ML Pipelines (PySpark)` → `n8n Workflows` |
+| ⚛️ | **Web** | `React / Next.js` → `TypeScript / Vite` → `Framer Motion` |
+| 🗄️ | **Data** | `MongoDB / SQL` → `Supabase / Firebase` → `Docker` |
 
-<br/>
+</div>
 
 ---
 
-### *"The best interface is one that thinks with you."*
+<div align="center">
 
-<br/>
+### *"Build systems that think. Ship products that scale."*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-A78BFA?style=for-the-badge)](https://github.com/MSaini-Dev/Portfolio)
 &nbsp;&nbsp;
