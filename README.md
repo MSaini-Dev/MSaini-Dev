@@ -22,7 +22,7 @@ AI Developer and Full-Stack Engineer focused on building autonomous AI systems â
 
 <div align="center">
 
-<table>
+<table sytle="border: none;">
 <tr>
 <td align="center" width="60"><img src="https://skillicons.dev/icons?i=python" width="40"/></td>
 <td align="center" width="60"><img src="https://skillicons.dev/icons?i=pytorch" width="40"/></td>
