@@ -242,3 +242,7 @@ class MSainiDev:
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MSaini-Dev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&hide_title=true" width="100%"/>
