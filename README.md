@@ -15,15 +15,15 @@
 </svg>
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas,fastapi,react,nextjs,ts" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,react,nextjs,ts" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=js,vite,tailwind,framer,nodejs,mongodb,mysql,supabase" />
+<img src="https://skillicons.dev/icons?i=js,vite,tailwind, nodejs,mongodb,mysql,supabase" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=firebase,docker,git,linux,vscode,postman,selenium,bash" />
+<img src="https://skillicons.dev/icons?i=firebase,docker,git, vscode,postman,selenium,bash" />
 
 </div>
 
