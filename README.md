@@ -19,11 +19,11 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=js,vite,tailwind, nodejs,mongodb,mysql,supabase" />
+<img src="https://skillicons.dev/icons?i=js,vite,tailwind,nodejs,mongodb,mysql,supabase" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=firebase,docker,git, vscode,postman,selenium,bash" />
+<img src="https://skillicons.dev/icons?i=firebase,docker,git,vscode,postman,selenium,bash" />
 
 </div>
 
